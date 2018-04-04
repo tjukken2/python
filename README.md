@@ -1,2 +1,4 @@
 # python
-Various python code specially related to ML
+Hi
+
+This folder contains various python code specially related to ML
